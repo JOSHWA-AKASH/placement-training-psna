@@ -1,1 +1,1 @@
-# placement-training-psna
+# placement-psna
